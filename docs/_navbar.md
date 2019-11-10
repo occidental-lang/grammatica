@@ -1,4 +1,4 @@
 <!-- _navbar.md -->
 
 * [Occidental](/)
-* [Anglese](/en/)
+* [:us: :uk: Anglese](/en/)
