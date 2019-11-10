@@ -4,4 +4,4 @@
   * [Occidental](/)
   * [:us: :uk: Anglese](/en/)
   * [🇮🇩 Indonesian](/id/)
-  * [:ru: Russian](/ru/)
+  * [:ru: Russ](/ru/)
