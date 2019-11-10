@@ -1,4 +1,4 @@
-- [Home](/README.md)
+- [Home](/en/)
 - [Alphabet](01-Alfabet.md)
 - [Pronunciation](02-Pronunciation.md)
 - [Accentuation](03-Accentuation.md)
