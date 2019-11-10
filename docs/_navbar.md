@@ -1,4 +1,7 @@
 <!-- _navbar.md -->
 
-* [Occidental](/)
-* [:us: :uk: Anglese](/en/)
+* :Globe: Traductiones
+  * [Occidental](/)
+  * [:us: :uk: Anglese](/en/)
+  * [:id: Indonesian](/id/)
+  * [:ru: Russian](/ru/)
