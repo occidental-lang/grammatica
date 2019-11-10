@@ -2,6 +2,7 @@
 
 § 56. Li **númeres cardinal** es:
 
+```
 0 null 
 1 un 
 2 du 
@@ -89,6 +90,7 @@ un million milliones = un billion
 1 000 0002 = 1 000000000000 = un billion
 1 000 0003 = un million billiones = un trillion
 1 000 0004 = un million trilliones = un quadrillion
+```
 
 § 57. Li **númeres ordinal** es format per adjunter li finale: **-esim**. **unesim** (apu **prim**), **duesim** (apu **secund**), triesim, etc.
 
