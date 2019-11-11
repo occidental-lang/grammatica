@@ -1,6 +1,8 @@
 # INTERJECTIONES
 
-§ 107. Quam interjectiones on posse usar omni interjectiones del national lingues, queles es comprensibil per se self o es internationalmen conosset.
+## § 107
+
+Quam interjectiones on posse usar omni interjectiones del national lingues, queles es comprensibil per se self o es internationalmen conosset.
 
 **Halló! Holá! Hé! Huzza! Hurrá! Yuhé! Huhú! Hu, Hu! Ba! Ay! Uf! Via! Nu! Hopp! Hoppla! Ve! Ho ve! Sus! Psit! Pst! Shut! Sht! Crac! Paf! Plump! Hm! Hum! Fi!**
 

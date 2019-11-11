@@ -1,6 +1,8 @@
 # PRONUNCIATION
 
-§ 3. Li vocales es sempre clarmen pronunciat quam seque:
+## § 3
+
+Li vocales es sempre clarmen pronunciat quam seque:
 
 **a** quam in F (francesi), o G (german), o H (hispan), o I (italian),o A (anglesi): father. vase, batte, batter.
 
@@ -25,9 +27,11 @@ leôn *, creatôr, mêdie, mediôcri, mêdium, lìngue, linguâl, lìnguìstic, 
 
 In plu un strict regul pri li pronunciation long o curt, cludet o apert del vocales ne existe. Preferibil es li pronunciationes simil a FGHI.
 
-Qui ne conosse alcun de ti pronunciationes posse sequer li indicationes del § 4 quam recomendation, ma ne quam regul strict o complet.
+Qui ne conosse alcun de ti pronunciationes posse sequer li indicationes del [§ 4](02-Pronunciation?id=§-4) quam recomendation, ma ne quam regul strict o complet.
 
-§ 4. In general **vocales _accentuat_** es passabilmen **long**; ma avan **c final**, **ch**, **x**, o avan pluri consonantes (exceptet **r** o **l** con precedent diferent consonant), e in li curt grammatical paroles ili es **curt**. **Vocales _ínaccentuat_** es plu o min **curt**.
+## § 4
+
+In general **vocales _accentuat_** es passabilmen **long**; ma avan **c final**, **ch**, **x**, o avan pluri consonantes (exceptet **r** o **l** con precedent diferent consonant), e in li curt grammatical paroles ili es **curt**. **Vocales _ínaccentuat_** es plu o min **curt**.
 
 **A, i, u** have sempre un medial sonalitá bon distinctibil del altri vocales. **Accentuat e** e **o** es **cludet**, si ili es long, e avan **m** e **n**, **apert** in omni altri casus. **E** e **o ínaccentuat** es plu o min **cludet**.
 
@@ -35,7 +39,9 @@ marchâr*, vidêr, venîr, sonôri, constructôr, constructiôn, chèc, iràc, d
 
 ?> * Signes ilustrativ, ne a scrir: ê: long e cludet, ë: curt e cludet, è: curt e apert.
 
-§ 5. **Li consonantes** es pronunciat quam seque:
+## § 5
+
+**Li consonantes** es pronunciat quam seque:
 
 **b, d, f, I, m, n, p** quam in AFGI, H (b = b in boca).
 
@@ -89,12 +95,16 @@ avan consonantes quam k. machine, marchar, chec; chloroform.
 
 **zz** dur (ts). plazza.
 
-§ 6. Li experientie pruva que **litt variationes** in li pronunciation ne gena li comprension. Pro to it **es permisset** pronunciar li y vocalic quam F: u, G: ù, qu quam kw, ch quam tsch, j sempre e g sequet de e, i, y quam dj.
+## § 6
+
+Li experientie pruva que **litt variationes** in li pronunciation ne gena li comprension. Pro to it **es permisset** pronunciar li y vocalic quam F: u, G: ù, qu quam kw, ch quam tsch, j sempre e g sequet de e, i, y quam dj.
 
 cylindre, quadre, marchar, chef, jurnal, gengive.
 
 Qui have desfacilitá in li pronunciation de cert combinationes de consonantes final con li consonantes initial del sequent parol posse intercalar un **demimut E**, ma sin scrir it.
 
-§ 7. **Paroles extran** es pronunciat maxim possibil quam in li lingue de orígine.
+## § 7
+
+**Paroles extran** es pronunciat maxim possibil quam in li lingue de orígine.
 
 Champagne, cognac.

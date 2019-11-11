@@ -1,18 +1,26 @@
 # PREPOSITIONES
 
-§ 99. Omni prepositiones sta **ínmediatmen avan lor complement**. lli es ínvariabil.
+## § 99
+
+Omni prepositiones sta **ínmediatmen avan lor complement**. lli es ínvariabil.
 
 **Pos prepositiones** on usa li **acusative** del pronómines, o li nominative except yo e tu.
 
-§ 100. Li **usation del prepositiones** in li lingues national es multvez contradictori. Pro to on deve sempre usar li prepositiones secun lor propri signification.
+## § 100
+
+Li **usation del prepositiones** in li lingues national es multvez contradictori. Pro to on deve sempre usar li prepositiones secun lor propri signification.
 
 In casus, u on ne trova un preposition con li exact sens a expresser, on usa li preposition **ye**, quel indica un relation índefinit. Ma tre sovente on posse usar li prepositiones **a, de** e **in**, queles have pluri significationes.
 
-§ 101. Multvez li relation es clar anc **sin preposition**. Li **verbes** es p. ex. usat maxim possibil sin preposition, con ínmediatmen sequent object, si li relation es clar; ma li usation de un sensconform preposition es sempre permisset.
+## § 101
+
+Multvez li relation es clar anc **sin preposition**. Li **verbes** es p. ex. usat maxim possibil sin preposition, con ínmediatmen sequent object, si li relation es clar; ma li usation de un sensconform preposition es sempre permisset.
 
 Il intrat li chambre. Il intrat in li chambre. Il montat li monte. Il montat sur li monte. Yo memora li cose. Yo memora pri li cose. Il prepara un viage. Il prepara se por un viage.
 
-§ 102. Li **maxim frequent prepositiones** es:
+## § 102
+
+Li **maxim frequent prepositiones** es:
 
 **a** _(in combinationes anc ad.): Il dat li flores a su amata. Yo dat un libre a Paul. Yo dat le un libre. Yo dat un libre a le. Un epistul a nor societé. Yo viagea a New York. Li vapornave ea a Lisboa. Clar a departer. Un error a regretar. Quo vu di pri mi arm a foy? Yo selectet it de tri armes a frs. 40.—. Yo va atender vos a tri horas al exeada nord del station. ad posse esser combinat con altri prepositiones e adverbies por far plu clar li sens: adavan, adsur, adin, ad-in, etc._
 
@@ -103,6 +111,8 @@ rure. In omni ocasion il eat al forest vice al scol, adminim decivez in min quam
 
 _Ye (in) omni ocasion il eat in li forest vice al scol. Yo va atender vos precisi ye (a) tri horas sur li plazza del scola. Yo vide la ye (che, avan, al) li triesim dom. Ili pariat ye (per, de) quin francs._
 
-§ 103. Mult **prepositional expressiones** es format per adverbies e adjectives:
+## § 103
+
+Mult **prepositional expressiones** es format per adverbies e adjectives:
 
 _Mersí vor auxilie, yo posset fìnir li labor ante li fixat termin, exceptet li ultim págines, queles ne es conform al programma, Concernent vor ultim question, yo posse solmen dir, que il esset in medie del chambre ínter su infantes._

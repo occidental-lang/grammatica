@@ -1,6 +1,8 @@
 # NUMERALES
 
-§ 56. Li **númeres cardinal** es:
+## § 56
+
+Li **númeres cardinal** es:
 
 ```
 0 null 
@@ -92,35 +94,51 @@ un million milliones = un billion
 1 000 0004 = un million trilliones = un quadrillion
 ```
 
-§ 57. Li **númeres ordinal** es format per adjunter li finale: **-esim**. **unesim** (apu **prim**), **duesim** (apu **secund**), triesim, etc.
+## § 57
 
-§ 58. Li **númeres fractionari** es egal al ordinales, ma ordinarimen on vicea li unesim quar per: un **tot**, un **demí**, un **ters**, un **quart**.
+Li **númeres ordinal** es format per adjunter li finale: **-esim**. **unesim** (apu **prim**), **duesim** (apu **secund**), triesim, etc.
+
+## § 58
+
+Li **númeres fractionari** es egal al ordinales, ma ordinarimen on vicea li unesim quar per: un **tot**, un **demí**, un **ters**, un **quart**.
 
 _du ters, tri quart, quar quinesim, etc._
 
-§ 59. Li **fractiones decimal** es pronunciat
+## § 59
+
+Li **fractiones decimal** es pronunciat
 
 3,78349 = tri comma sett ott tri quar nin,
 0,25 = null comma du quin.
 
-§ 60. Li **numerales multiplicativ** es format per adjunter li finale
+## § 60
+
+Li **numerales multiplicativ** es format per adjunter li finale
 **-uplic** (pos vocales: -plic):
 
 _unuplic (simplic), duplic, triplic, quaruplic (quadruplic), quinuplic (quintuplic), sixuplic, settuplic, ottuplic, ninuplic, deciplic, deciunuplic, deciduplic, duantuplic, centuplic, centunuplic, etc._
 
-§ 61. Li **numerales iterativ** es format per: **vez**.
+## § 61
+
+Li **numerales iterativ** es format per: **vez**.
 
 _du vez o duvez, tri vez, centvez, mult vez o multvez o mult vezes._
 
-§ 62. Li **numerales colectiv** es format per li finale: **-ene**.
+## § 62
+
+Li **numerales colectiv** es format per li finale: **-ene**.
 
 _li unité, pare, triene, quarene, quinene, decene, deciduene, centene._
 
-§ 63. **Altri numeral expressiones es p. ex.**:
+## § 63
+
+**Altri numeral expressiones es p. ex.**:
 
 chascun triesim vez, tri e tri, quar e quar. Li soldates marcha quar e quar.
 
-§ 64. **Calcul aritmetic**.
+## § 64
+
+**Calcul aritmetic**.
 
 Addition: 12 + 10 = 22 decidu plus deci es duantdu.
 

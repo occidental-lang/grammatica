@@ -1,6 +1,8 @@
 # ACCENTUATION
 
-§ 8. Li **accentu primari** sta sur li vocal ante li ultim consonant, ma ne sur li quar síllabes **bil, ic, im, ul**, queles porta li accentu al precedent síllab, mem si ti-ci es bil, ic, im, ul. Un simplic s e li du síllabes men e um in li fine del parol ne changea li accentuation del precedent parol-parte. Si ti regules ne es aplicabil, on accentua li prim vocal del parol.
+## § 8
+
+Li **accentu primari** sta sur li vocal ante li ultim consonant, ma ne sur li quar síllabes **bil, ic, im, ul**, queles porta li accentu al precedent síllab, mem si ti-ci es bil, ic, im, ul. Un simplic s e li du síllabes men e um in li fine del parol ne changea li accentuation del precedent parol-parte. Si ti regules ne es aplicabil, on accentua li prim vocal del parol.
 
 Si li natural accentuation ne seque ti regul, it es marcat per un **accentu scrit** (preferibilmen quam in é, tolerat anc è o ê). On posse omisser li accentu scrit, exceptet sur vocales final, o usar it anc in altri casus por garantir li desirat accentuation.
 
@@ -10,6 +12,8 @@ Li pòríu *, familie, àvie, doctòr, formàr, li formàt, li formàte, formàn
 
 ?> * In vocabulariums e manuales li scrition del acut es obligatori, ti del gravis recomendat quam medie didactic por accentus ínscrit: ínscrit, il inscrí, ìris, ottùplic, il rèplica, il multìplica, specìfic, pacìfic, il artìcula, il inspùla, il ànima, li ferrovìa, li relvìa, il refá, it rèsta.
 
-§ 9. In li **fluent parlada** on ne accentua chascun parol secun li regul precedent, ma solmen li maxim important paroles del frase.
+## § 9
+
+In li **fluent parlada** on ne accentua chascun parol secun li regul precedent, ma solmen li maxim important paroles del frase.
 
 On posse sèmpre aplicar ti règules secun necessitá. Si on vole accentuàr un cert vocàl, on posse mem accentuar còntra li regul grammaticàl; it esset un medicà, ne un medicò.
