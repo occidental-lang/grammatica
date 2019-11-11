@@ -1,4 +1,5 @@
 <!-- _navbar.md -->
 
-* [Occidental](/)
-* [English](/en/)
+* 🌐 Translations
+  * [Occidental](/)
+  * [:us: :uk: English](/en/)

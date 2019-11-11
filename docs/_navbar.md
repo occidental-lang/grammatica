@@ -3,5 +3,3 @@
 * 🌐 Traductiones
   * [Occidental](/)
   * [:us: :uk: Anglese](/en/)
-  * [🇮🇩 Indonesian](/id/)
-  * [:ru: Russ](/ru/)
