@@ -4,13 +4,13 @@
 
 Interlingue conserva maxim possibil li **aspect international** del paroles; ma it es recomendat vicear li **duplic consonantes** per li simplic, exceptet si ili es pronunciat diferentmen o es necessi por indicar que li precedent vocal es curt o que **s** ne es sonori. Duplic consonantes in li radica resta anc in li formes derivat.
 
-access, suggester, anates, annu, annales, asserfer, aromatic, bloc, arogant, can, canne, car, carre, present, pressent, li atacca, il atacca, ataccar, cellul, cellulose, rebell, rebellion.
+_access, suggester, anates, annu, annales, asserfer, aromatic, bloc, arogant, can, canne, car, carre, present, pressent, li atacca, il atacca, ataccar, cellul, cellulose, rebell, rebellion._
 
 ## § 11
 
 Li **grec gruppes de consonantes: th, chl, chr, ph** es in general simplificat a: **t, cl, cr, f**, e vice **y** vocalic on scri i. Ma anc li historic ortografie es permisset.
 
-tema o thema, fonograf o phonograph, cloroform o chloroform, simpatic o sympatic o sympathic.
+_tema o thema, fonograf o phonograph, cloroform o chloroform, simpatic o sympatic o sympathic._
 
 ## § 12
 
