@@ -2,12 +2,9 @@
 
 ## Dr. F. Haas {docsify-ignore}
 
-Digitalisat de S. Belitzky ex edition de
-
-Interlingue-Servicie Winterthur (Svissia) 1956
-
- 
-
+Digitalisat de S. Belitzky ex edition de Interlingue-Servicie Winterthur (Svissia) 1956
+Adaptet a HTML 4.01 de Sebastian Hartwig (2009)
+Adaptet a Markdown (2019)
 # ANTEPAROL {docsify-ignore}
 
 Ti grammatica es complet in li sens, que it contene omni essential regules usat in li textus de Cosmoglotta, li oficial organ del Interlingue Union, e in li Complet Cursu de Interlingue de A. Matejka. In plu omni decisiones del Interlingue Academie es egardat.

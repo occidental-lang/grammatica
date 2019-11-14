@@ -2,20 +2,20 @@
 
 ## Dr. F. Haas {docsify-ignore}
 
-Digitized by S. Belitzky from the Interlingue-Servicie Winterthur (Svissia) 1956 edition.
-
- 
+Digitized by S. Belitzky from the Interlingue-Servicie Winterthur (Svissia) 1956 edition
+Adapted to HTML 4.01 by Sebastian Hartwig (2009)
+Adapted to Markdown (2019)
 
 # Preface {docsify-ignore}
 
-Ti grammatica es complet in li sens, que it contene omni essential regules usat in li textus de Cosmoglotta, li oficial organ del Interlingue Union, e in li Complet Cursu de Interlingue de A. Matejka. In plu omni decisiones del Interlingue Academie es egardat.
+This grammar is complete in the sense that it contains all essential rules used in the texts of Cosmoglotta, the official organ of the Interlingue Union, and in the "Complet Curse de Interlingue" (Complete Course of Interlingue) by A. Matejka. Moreover*, all decisions by the Interlingue Academy are considered.
 
-In contrast a omni lingues national, on posse dir de Interlingue: Qui aplica li regules de ti grammatica e usa li adequat paroles, parla e scri Interlingue corectmen. Il ne deve timer audir: Yes, on ne trova un erra grammatical in vor lettre, ma null anglese vell expresser su pensas per ti paroles o per ti frase-constructiones! E to constitue li grand facilitá de Interlingue: Chascun nation posse expresser su pensas in li cadre del poc regules grammatical in li maniere acustomat, e deve solmen far atention, ne usar Idiotismes íncomprensibil al altri nationes per usar cert paroles in un altri sens quam li general. Ma li regules grammatical es tre simplic e sin exceptiones, talmen que on posse realmen mastrisar les in extrem curt témpor. In plu un grand parte del regules confirma solmen, que li ja conosset regules del lingue matrin vale anc in Interlingue.
+In contrast to all national languages, one can say of Interlingue: Who applies the rules of this grammar and uses the proper (adequate) words, speaks and writes Interlingue correctly. He does not have to fear hearing: "Yes, I see no grammatical errors in your letter, but no English people would express their thoughts with these words or these sentence constructions!" And that constitutes the great easy of Interlingue: Each nation can express their thoughts in the frame of few grammatical rules in the accustomed manner, and only needs to pay attention toward not using idiomatic expressions incomprehensible to other nations through using certain words in another sense than the general one. But the grammatical rules are very simple and without exceptions, so that one can truly master them in a very short time. In addition* a large part of the rules simply confirm that the already-known rules in one's mother tongue work (avail) also in Interlingue.
 
-On posse dunc dir sin exageration, que Interlingue es mult plu facil quam li precedent projectes de lingue international e íncomparabilmen plu simplic quam omni lingues national, mem in simplificat form. To vale ne solmen por li comprension, ma anc por li aprensíon e specialmen anc por li aplication del lingue.
+One can therefore say without exaggeration, that Interlingue is much easier than the preceding international language projects and incomparably simpler than all national languages, even in simplified form. That works not only for comprehension, but also for the study and also for the application of the language.
 
-Winterthur (Svissia), octobre 1956.
+Winterthur (Switzerland), October 1956.
 
 Dr. phil. Fritz Haas
 
-?> Li nómine Occidental del lingue international creat de Edgar von Wahl esset 1949 viceat per li nómine Interlingue, sin changear li lingue self, por evitar li politic aspecte del nómine “Occidental-Union”.
+?> The name Occidental of the international language created by Edgar von Wahl was in 1949 changed to the name Interlingue, without changing the language itself, to avoid the political aspect of the name “Occidental-Union”.
