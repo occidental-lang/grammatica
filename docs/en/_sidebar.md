@@ -1,7 +1,7 @@
 - [Home](/en/)
 - [Alphabet](01-Alfabet.md)
 - [Pronunciation](02-Pronunciation.md)
-- [Accentuation](03-Accentuation.md)
+- [Stress](03-Accentuation.md)
 - [Orthography](04-Ortografie.md)
 - [Articles](05-Articul.md)
 - [Substantive](06-Substantive.md)
