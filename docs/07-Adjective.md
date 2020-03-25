@@ -20,7 +20,9 @@ _li novum, li bellum._
 
 ## § 32
 
-Li adjective es **ínvariabil** in génere e númere. li grand filio, li grand filia, li grand filios, li grand filias.
+Li adjective es **ínvariabil** in génere e númere. 
+
+_li grand filio, li grand filia, li grand filios, li grand filias._
 
 ## § 33
 
@@ -36,7 +38,7 @@ li **egalitá** per **tam - quam**
 li **majoritá** per **plu - quam**
 li **minoritá** per **minu (min) - quam**
 
-_Il es tam grand quam su fratre; il es plu grand quam su fratre; il es minu grand quam su fratre. Il es plu grand quam yo. Li plu grand libre._
+_Il es **tam** grand **quam** su fratre; il es **plu** grand **quam** su fratre; il es **minu** grand **quam** su fratre. Il es **plu** grand **quam** yo. Li plu grand libre._
 
 ## § 35
 
@@ -50,6 +52,7 @@ _Li maxim grand del libres. Li minim grand libre._
 ## § 36
 
 Por li **superlative absolut on** usa: **tre**, o li sufix: **-issim**.
+
 _tre grand, grandissim._
 
 Por comparar tri o pluri gradus on usa:

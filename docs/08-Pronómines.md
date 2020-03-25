@@ -27,7 +27,7 @@ Li formes in parenteses es usat solmen in casu de necessitá.
 
 ## § 40
 
-Li pronómin de **politesse** es: **vu** (cf. § 13). On usa it vice tu, quel expresse un cert intimitá o parentitá.
+Li pronómin de **politesse** es: **vu** (cf. [§ 13](04-Ortografie?id=§-13)). On usa it vice tu, quel expresse un cert intimitá o parentitá.
 
 ## § 41
 
@@ -88,9 +88,9 @@ _To es mi libre. Yo save to (li facte, que to es tui líbre)._
 
 ## § 48
 
-Li **pronómin o articul lu** servi por expresser to quo es impersonal, neutri o abstract. It significa generalmen: to quo es (li) . . .
+Li **pronómin o articul lu** servi por expresser to quo es impersonal, neutri o abstract. It significa generalmen: to quo es (li)...
 
-_De lu sublim a lu comic es sovente solmen un passu. Lu nov de ti conception es . .._
+_De lu sublim a lu comic es sovente solmen un passu. Lu nov de ti conception es ..._
 
 # Pronómines relativ e interrogativ
 
@@ -126,7 +126,7 @@ _Qual homes esset ci? Qual es li aqua hodíe, calid o frigid? Yo ne save qual it
 
 ## § 54
 
-Li prefix: **al-** da pronómines indicant alquó índeterminat, li prefix: **ne-** tales indicant li absentie, li negation, e li sufix: -cunc fa definit pronómines relativ índefinit.
+Li prefix: **al-** da pronómines indicant alquó índeterminat, li prefix: **ne-** tales indicant li absentie, li negation, e li sufix: **-cunc** fa definit pronómines relativ índefinit.
 
 **alquel, alqual, alquant, alquó, alquí, alcun, nequel, nequal, nequó, nequí, necos, necun, quelcunc, qualcunc, quantcunc, quocunc, quicunc.**
 

@@ -134,7 +134,7 @@ _li unité, pare, triene, quarene, quinene, decene, deciduene, centene._
 
 **Altri numeral expressiones es p. ex.**:
 
-chascun triesim vez, tri e tri, quar e quar. Li soldates marcha quar e quar.
+_chascun triesim vez, tri e tri, quar e quar. Li soldates marcha quar e quar._
 
 ## § 64
 
@@ -152,4 +152,5 @@ Potentiation: 62 = 36 six quadrat, o six in duesim potentie, o six in duesim es 
 23 = 8 du in cub, o du in triesim potentie, o du in triesim es ott.
 
 Radication: √49 = 7 radica quadratic, o duesim radica ex quarantnin es sett.
+
 3√8 = 2 radica cubic, o triesim radica de ott es du.

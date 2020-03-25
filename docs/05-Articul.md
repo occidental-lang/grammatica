@@ -16,7 +16,7 @@ Yo vide un avie. Yo vide avies.
 
 Li articul **li** posse **prender li plurale**, si null altri parol expresse it.
 
-On deve metter punctus sur lis i. Ma mult i ne havet punctus.
+On deve metter punctus sur **lis** "i". Ma mult "i" ne havet punctus.
 
 ## § 18
 

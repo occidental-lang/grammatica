@@ -1,4 +1,4 @@
-# ORTOGRAFIE
+# Orthography
 
 ## § 10
 
@@ -18,7 +18,7 @@ _tema o thema, fonograf o phonograph, cloroform o chloroform, simpatic o sympati
 
 ## § 13
 
-**Upper case** is used only in the beginning of sentences, in prober names, in titles, and for distinguishing Vu, Vos, Vor as polite forms from vu, vos, vor, if one wishes to make the distinction. 
+**Upper case** is used only in the beginning of sentences, in proper names, in titles, and for distinguishing Vu, Vos, Vor as polite forms from vu, vos, vor, if one wishes to make the distinction. 
 
 _Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie._
 
