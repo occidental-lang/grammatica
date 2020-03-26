@@ -16,7 +16,7 @@ e
 
 al tema verbal (radica plus prefixes e sufixes). Ti vocal es caracteristic por chascun verb e resta ínvariabil in omni formes del conjugation.
 
-| Tema verbal | Tema presentic:
+| Tema verbal | Tema presentic |
 | --- | --- |
 | fabric |  fabrica |
 | exped | expedi  |
@@ -174,7 +174,7 @@ ples constructer
 
 ## § 76
 
-Li **optative** es format per mey con infinitive:
+Li **optative** es format per **mey** con infinitive:
 
 ```
 il mey fabricar
@@ -226,9 +226,9 @@ Li cose explica se simplicmen.
 
 ## § 78
 
-**Vice li subjuntive** on usa in general li indicative. Solmen in rar casus exceptional (p. ex. in juristic documentes) on posse usar un form subjuntivic per adjunter -ye al presente del verb o del verb auxiliari:
+**Vice li subjuntive** on usa in general li indicative. Solmen in rar casus exceptional (p. ex. in juristic documentes) on posse usar un form subjuntivic per adjunter **-ye** al presente del verb o del verb auxiliari:
 
-Il di que il la amaye. Il dit que il la haye amat.
+_Il di que il la amaye. Il dit que il la haye amat._
 
 # Verbal derivation
 
@@ -290,7 +290,7 @@ Che li tri verbes: **far, dir, scrir** on posse formar li derivates per li compl
 
 Che li verbes con li consonantgruppe **-nct-** on posse omisser li **c**, precipue in nederivat formes.
 
-Contrafaction o contrafation, factor o fator, malediction o maledition, prescription o prescrition. Distincter o distinter, distinction o distintion, conjunction, conjunter.
+_Contrafaction o contrafation, factor o fator, malediction o maledition, prescription o prescrition. Distincter o distinter, distinction o distintion, conjunction, conjunter._
 
 ## § 82
 
@@ -300,8 +300,7 @@ Li **finale -ntie** es adjuntet al tema presentic de verbes expressent un statu,
 | --- | --- | --- |
 | tolerantie | provenientie | existentie |
 
-Quam in li participie presentic on intercala **e** pos **i** del verbes in **ir**. Ti finale es solmen un combination del finale del participie presentic
-**-nt** con li sufix **-ie**.
+Quam in li participie presentic on intercala **e** pos **i** del verbes in **ir**. Ti finale es solmen un combination del finale del participie presentic **-nt** con li sufix **-ie**.
 
 ## § 83
 
@@ -321,8 +320,9 @@ Li sufix **-ment** anc es adjuntet al tema presentic:
 | --- | --- | --- |
 | fundament | experiment | movement |
 
-Si li radica de un verb con **er** fini per vocal, li e desapari:
-**arguer argument compleer complement**
+Si li radica de un verb con **er** fini per vocal, li **e** desapari:
+
+_arguer argument compleer complement_
 
 ## § 85
 
@@ -351,4 +351,5 @@ Li **altri sufixes** es adjuntet directmen al radica verbal:
 _li pense, li pensa (plu proxim al action), li vende, li crede, li response, li vise, li flut, lì resultat, li extracte, li tribut._
 
 Li tema perfectic sin finale es usat anc quam **adjective**:
+
 _devot, apert, pervers._
