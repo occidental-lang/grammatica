@@ -72,7 +72,7 @@ _Ti libre es bell. Yo vide ti libres. Yo vide tís. Ti-ci table es solid. Ti-ci 
 
 Li **sexu** posse exceptionalmen esser indicat per li pronómin personal.
 
-_il-ti, il-ci, ella-ti, illos-ci, ellas-ta._
+_il-ta, il-ci, ella-ta, illos-ci, ellas-ta._
 
 ## § 46
 
