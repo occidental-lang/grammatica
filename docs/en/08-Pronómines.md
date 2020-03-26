@@ -75,8 +75,8 @@ _Ti libre es bell. Yo vide ti libres. Yo vide tís. Ti-ci table es solid. Ti-ci 
 
 Sex/gender can be indicated in exceptional cases with the personal pronoun. 
 
-_il-ti, il-ci, ella-ti, illos-ci, ellas-ta._
-(him there, him here, her there, her here, those girls over there.)
+_il-ta, il-ci, ella-ta, illos-ci, ellas-ta._
+(him there, him here, her there, her here, those girls there.)
 
 ## § 46
 
