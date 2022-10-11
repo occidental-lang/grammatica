@@ -261,7 +261,7 @@ On posse anc dir, que li sufixes: **ion, or, ori, iv** e **ura** es adjuntet che
 | creation | expedition | construction |
 | creator | expeditor | constructor |
 | creatori | expeditori | constructori |
-| cretiv | expeditiv | constructiv |
+| creativ | expeditiv | constructiv |
 | creatura | garnitura | structura |
 
 | distribuer | exploder | adherer |
